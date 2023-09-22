@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EnumeratedDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EnumeratedDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GeneratorDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GeneratorDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HQLandSQLDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HQLandSQLDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HibernateDemo.iml" filepath="$PROJECT_DIR$/.idea/HibernateDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InheritanceJoinedDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InheritanceJoinedDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InheritanceMappedSupperclassDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InheritanceMappedSupperclassDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InheritanceSingleTableDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InheritanceSingleTableDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InheritanceTablePerClassDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InheritanceTablePerClassDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Many2ManyRelationshipDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Many2ManyRelationshipDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ManyToManyIdClassDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ManyToManyIdClassDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/One2ManyCollectionDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/One2ManyCollectionDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/One2ManyRelationshipDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/One2ManyRelationshipDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/One2OneIndependentId.main.iml" filepath="$PROJECT_DIR$/.idea/modules/One2OneIndependentId.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/One2OneRelationshipDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/One2OneRelationshipDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/One2OneShareIdDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/One2OneShareIdDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrimaryKeyDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PrimaryKeyDemo.main.iml" />
+    </modules>
+  </component>
+</project>

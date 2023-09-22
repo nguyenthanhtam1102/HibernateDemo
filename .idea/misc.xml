@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/EnumeratedDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/GeneratorDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/HQLandSQLDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/InheritanceJoinedDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/InheritanceMappedSupperclassDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/InheritanceSingleTableDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/InheritanceTablePerClassDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/Many2ManyRelationshipDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/ManyToManyIdClassDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/One2ManyCollectionDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/One2ManyRelationshipDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/One2OneIndependentId" />
+    <file type="web" url="file://$PROJECT_DIR$/One2OneRelationshipDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/One2OneShareIdDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/PrimaryKeyDemo" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
